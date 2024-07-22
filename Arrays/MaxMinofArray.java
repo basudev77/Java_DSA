@@ -3,13 +3,7 @@ package Arrays;
 
 public class MaxMinofArray {
 
-    /**
-     * Finds the minimum element in an array of integers.
-     *
-     * @param arr The input array.
-     * @param N The size of the array.
-     * @return The minimum element in the array.
-     */
+
     public static int findMin(int[] arr, int N) {
         if (N == 0) {
             throw new IllegalArgumentException("Array cannot be empty");
@@ -24,13 +18,6 @@ public class MaxMinofArray {
         return min;
     }
 
-    /**
-     * Finds the maximum element in an array of integers.
-     *
-     * @param arr The input array.
-     * @param N The size of the array.
-     * @return The maximum element in the array.
-     */
     public static int findMax(int[] arr, int N) {
         if (N == 0) {
             throw new IllegalArgumentException("Array cannot be empty");
