@@ -1,0 +1,54 @@
+
+package Arrays;
+
+public class MaxMinofArray {
+
+    /**
+     * Finds the minimum element in an array of integers.
+     *
+     * @param arr The input array.
+     * @param N The size of the array.
+     * @return The minimum element in the array.
+     */
+    public static int findMin(int[] arr, int N) {
+        if (N == 0) {
+            throw new IllegalArgumentException("Array cannot be empty");
+        }
+        
+        int min = Integer.MAX_VALUE;
+        for (int i = 0; i < N; i++) {
+            if (arr[i] < min) {
+                min = arr[i];
+            }
+        }
+        return min;
+    }
+
+    /**
+     * Finds the maximum element in an array of integers.
+     *
+     * @param arr The input array.
+     * @param N The size of the array.
+     * @return The maximum element in the array.
+     */
+    public static int findMax(int[] arr, int N) {
+        if (N == 0) {
+            throw new IllegalArgumentException("Array cannot be empty");
+        }
+        
+        int max = Integer.MIN_VALUE;
+        for (int i = 0; i < N; i++) {
+            if (arr[i] > max) {
+                max = arr[i];
+            }
+        }
+        return max;
+    }
+
+    public static void main(String[] args) {
+        int[] arr = { 4, 9, 6, 5, 2, 3 };
+        int N = arr.length;
+        System.out.println("Minimum element is: " + findMin(arr, N));
+        System.out.println("Maximum element is: " + findMax(arr, N));
+    }
+}
