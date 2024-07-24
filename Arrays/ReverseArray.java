@@ -1,4 +1,4 @@
-package Arrays;
+package JAVA_DSA.Arrays;
 
 public class ReverseArray {
     static void reverseArray(int arr[], int start, int end) { 

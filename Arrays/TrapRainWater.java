@@ -1,4 +1,4 @@
-package Arrays;
+package JAVA_DSA.Arrays;
 
 public class TrapRainWater {
     public static int trap(int[] height) {

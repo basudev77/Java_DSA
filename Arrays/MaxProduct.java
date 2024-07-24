@@ -1,4 +1,4 @@
-package Arrays;
+package JAVA_DSA.Arrays;
 
 public class MaxProduct {
     public static int maxProduct(int[] nums) {

@@ -1,4 +1,4 @@
-package Arrays;
+package JAVA_DSA.Arrays;
 
 //SEARCH IN ROTATED SORTED ARRAY
 

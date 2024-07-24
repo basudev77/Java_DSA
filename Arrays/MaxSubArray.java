@@ -1,4 +1,4 @@
-package Arrays;
+package JAVA_DSA.Arrays;
 
 public class MaxSubArray {
     public static int maxSubArray(int[] nums) {
