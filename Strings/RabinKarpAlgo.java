@@ -37,6 +37,6 @@ public class RabinKarpAlgo {
     }
 
     public static void main(String[] args) {
-        search("ApoorvKunalRahul", "Kunal");
+        search("IamBasudevDas", "Basudev");
     }
 }
