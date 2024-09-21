@@ -1,4 +1,4 @@
-package JAVA_DSA.SearchingAndSorting;
+package SearchingAndSorting;
 public class ProductArray {
     void productArray(int arr[], int n) 
     { 

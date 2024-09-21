@@ -1,4 +1,4 @@
-package JAVA_DSA.SearchingAndSorting;
+package SearchingAndSorting;
 
 public class SticklerThief {
     static int rec(int nums[], int idx,int N)

@@ -1,4 +1,4 @@
-package JAVA_DSA.TwoDArrays;
+package TwoDArrays;
 
 import java.util.Scanner;
 

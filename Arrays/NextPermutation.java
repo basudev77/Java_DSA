@@ -1,4 +1,4 @@
-package JAVA_DSA.Arrays;
+package Arrays;
 import java.util.Arrays;
 
 public class NextPermutation {

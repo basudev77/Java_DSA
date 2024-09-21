@@ -1,4 +1,4 @@
-package JAVA_DSA.Strings;
+package Strings;
 public class LongCommonPrefix {
     public static String longestCommonPrefix(String[] strs) {
         String res="";

@@ -1,4 +1,4 @@
-package JAVA_DSA.Strings;
+package Strings;
 
 public class PrintSequence {
     static String printSequence(String arr[], String input)

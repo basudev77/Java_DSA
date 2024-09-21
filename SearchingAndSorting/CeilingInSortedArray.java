@@ -1,4 +1,4 @@
-package JAVA_DSA.SearchingAndSorting;
+package SearchingAndSorting;
 public class CeilingInSortedArray {
     static int ceilSearch(int arr[], int low, int high, int x)
     {

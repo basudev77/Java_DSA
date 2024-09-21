@@ -1,4 +1,4 @@
-package JAVA_DSA.SearchingAndSorting;
+package SearchingAndSorting;
 public class FindPairWithDiff {
     static void findPair(int[] arr, int n, int diff) {
         

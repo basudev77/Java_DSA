@@ -1,4 +1,4 @@
-package JAVA_DSA.Strings;
+package Strings;
 
 import java.util.HashMap;
 

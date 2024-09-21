@@ -1,4 +1,4 @@
-package JAVA_DSA.TwoDArrays;
+package TwoDArrays;
 
 public class NumOfIslands {
     public static void dfs(char[][] grid,int i,int j){

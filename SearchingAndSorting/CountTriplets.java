@@ -1,4 +1,4 @@
-package JAVA_DSA.SearchingAndSorting;
+package SearchingAndSorting;
 import java.util.*;
 public class CountTriplets {
     static int arr[] = new int[]{5, 1, 3, 4, 7}; 

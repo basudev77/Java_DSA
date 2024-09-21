@@ -1,4 +1,4 @@
-package Java_DSA.SearchingAndSorting;
+package SearchingAndSorting;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;

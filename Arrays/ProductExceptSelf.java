@@ -1,4 +1,4 @@
-package JAVA_DSA.Arrays;
+package Arrays;
 
 public class ProductExceptSelf {
     public static int[] productExceptSelf(int[] nums) {

@@ -1,4 +1,4 @@
-package JAVA_DSA.SearchingAndSorting;
+package SearchingAndSorting;
 
 public class MinCostToMakeArrEqual {
     public static long minCost(int[] nums, int[] cost) {

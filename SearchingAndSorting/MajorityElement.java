@@ -1,4 +1,4 @@
-package JAVA_DSA.SearchingAndSorting;
+package SearchingAndSorting;
 public class MajorityElement {
     public static int majorityElement(int []v) {
         //size of the given array:

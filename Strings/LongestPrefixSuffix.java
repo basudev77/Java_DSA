@@ -1,4 +1,4 @@
-package JAVA_DSA.Strings;
+package Strings;
 public class LongestPrefixSuffix {
     public static int lps(String s) {
         // code here

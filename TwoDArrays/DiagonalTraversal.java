@@ -1,4 +1,4 @@
-package JAVA_DSA.TwoDArrays;
+package TwoDArrays;
 
 public class DiagonalTraversal {
     public static int[] DiagonalPattern(int[][] matrix) {

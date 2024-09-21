@@ -1,4 +1,4 @@
-package JAVA_DSA.TwoDArrays;
+package TwoDArrays;
 
 public class RotateImage {
     static void rotate(int[][] matrix) {

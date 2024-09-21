@@ -1,4 +1,4 @@
-package JAVA_DSA.Arrays;
+package Arrays;
 
 public class PairInRoSortArray {
     static boolean pairInSortedRotated(int arr[], int n,

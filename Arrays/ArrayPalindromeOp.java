@@ -1,4 +1,4 @@
-package JAVA_DSA.Arrays;
+package Arrays;
 
 public class ArrayPalindromeOp {
     static int findMinOps(int[] arr, int n)

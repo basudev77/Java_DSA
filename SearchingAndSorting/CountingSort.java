@@ -1,4 +1,4 @@
-package JAVA_DSA.SearchingAndSorting;
+package SearchingAndSorting;
 
 public class CountingSort {
     public static int[] countSort(int[] inArray) {

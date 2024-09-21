@@ -1,5 +1,5 @@
 
-package JAVA_DSA.Arrays;
+package Arrays;
 
 public class MaxMinofArray {
 

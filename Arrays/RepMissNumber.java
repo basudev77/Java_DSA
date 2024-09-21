@@ -1,4 +1,4 @@
-package JAVA_DSA.Arrays;
+package Arrays;
 
 import java.util.Arrays;
 // This code return reapeated and missing number in a Array.

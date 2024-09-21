@@ -1,4 +1,4 @@
-package JAVA_DSA.Strings;
+package Strings;
 
 public class LongRepCharRep {
     public static int characterReplacement(String s, int k) {

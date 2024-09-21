@@ -1,4 +1,4 @@
-package JAVA_DSA.Strings;
+package Strings;
 import java.util.*;
 public class WordWrap {
     public static int solveWordWrap (int[] nums, int k)

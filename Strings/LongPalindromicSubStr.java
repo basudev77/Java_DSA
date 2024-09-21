@@ -1,4 +1,4 @@
-package JAVA_DSA.Strings;
+package Strings;
 public class LongPalindromicSubStr {
     public static String longestPalindrome(String s) {
         int n = s.length();

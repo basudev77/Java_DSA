@@ -1,4 +1,4 @@
-package JAVA_DSA.SearchingAndSorting;
+package SearchingAndSorting;
 
 public class SearchDiffByAtmostK {
     static int search(int arr[], int n,  

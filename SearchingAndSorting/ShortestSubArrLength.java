@@ -1,4 +1,4 @@
-package JAVA_DSA.SearchingAndSorting;
+package SearchingAndSorting;
 public class ShortestSubArrLength {
     public static int findLengthOfShortestSubarray(int[] arr) {
         int n = arr.length;

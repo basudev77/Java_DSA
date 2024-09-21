@@ -1,4 +1,4 @@
-package JAVA_DSA.Strings;
+package Strings;
 
 public class RabinKarpAlgo {
 

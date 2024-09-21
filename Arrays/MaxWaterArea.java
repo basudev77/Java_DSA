@@ -1,4 +1,4 @@
-package JAVA_DSA.Arrays;
+package Arrays;
 
 public class MaxWaterArea {
     public static int maxArea(int[] height) {
